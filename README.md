@@ -1,6 +1,6 @@
 # Label Definitions
 
-An open source list of label dimensions.  The data are in [labels.yml][].
+An open source list of label dimensions.  The data are in [labels.yml](./labels.yml).
 
 Surprisingly Avery doesn't publish a structured list of their labels.  Even more surprisingly, I can't find a good list on the internet.  So here's a start.
 
