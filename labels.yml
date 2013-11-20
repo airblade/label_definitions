@@ -1,0 +1,56 @@
+# Listed alphabetically.
+# Labels with the same dimensions are listed once with aliases.
+# Specify either page_size or (page_width and page_height).
+# Dimensions in millimetres.
+
+Avery 3657:
+  rows: 10
+  columns: 4
+  width: 48.5
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_size: A4
+Avery 5160:
+  rows: 10
+  columns: 3
+  width: 66.675
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.175
+  page_size: Letter
+Avery 5395:
+  rows: 4
+  columns: 2
+  width: 85.725
+  height: 59.267
+  row_gutter: 4.0527
+  column_gutter: 9.5
+  page_size: Letter
+Avery 5418:
+  rows: 9
+  columns: 4
+  width: 19.05
+  height: 12.7
+  row_gutter: 1.6
+  column_gutter: 1.6
+  page_width: 101.6
+  page_height: 152.4
+Avery J8651:
+  aliases: Avery L7651
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.2
+  row_gutter: 0.0
+  column_gutter: 2.5
+  page_size: A4
+Zweckform 4737:
+  aliases: Zweckform 4784
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.6
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_size: A4
