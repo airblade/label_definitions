@@ -1,5 +1,6 @@
 require 'yaml'
 require 'label_definitions/label'
+require 'label_definitions/page_size'
 require 'label_definitions/version'
 
 module LabelDefinitions
@@ -10,6 +11,7 @@ module LabelDefinitions
       load_definitions.each do |name, definition|
         symbolize_keys! definition
         name_and_aliases(name, definition).each do |n|
+          convert_page_size! definition
           labels << Label.new(definition.merge({name: n}))
         end
       end
@@ -27,6 +29,14 @@ module LabelDefinitions
   end
 
   private
+
+  def self.convert_page_size!(definition)
+    if (size = definition.delete :page_size)
+      width, height = LabelDefinitions::PageSize::SIZES[size]
+      definition[:page_width]  = width
+      definition[:page_height] = height
+    end
+  end
 
   def self.name_and_aliases(name, definition)
     [name] + definition.fetch(:aliases, '').split(',').map(&:strip)

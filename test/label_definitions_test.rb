@@ -38,6 +38,12 @@ class LabelDefinitionsTest < TestCase
     assert_equal count, LabelDefinitions.all.length
   end
 
+  test 'converts page size to width and height' do
+    label = LabelDefinitions.find 'Avery 5395'
+    assert_equal 215.9, label.page.width
+    assert_equal 279.4, label.page.height
+  end
+
   private
 
   def example_label
@@ -48,7 +54,8 @@ class LabelDefinitionsTest < TestCase
                                 height: 42,
                                 row_gutter: 0,
                                 column_gutter: 0,
-                                page_size: 'A4'
+                                page_width: 210,
+                                page_height: 297
   end
 
 end

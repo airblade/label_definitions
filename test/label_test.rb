@@ -3,22 +3,25 @@ require 'label_definitions/label'
 
 class LabelTest < TestCase
 
-  test 'requires page size or (page width and height)' do
-    assert_raises(KeyError) { LabelDefinitions::Label.new attributes }
-    assert LabelDefinitions::Label.new(attributes.merge(page_size: 'A4'))
-    assert LabelDefinitions::Label.new(attributes.merge(page_width: 42, page_height: 153))
+  test 'page' do
+    page = LabelDefinitions::Label.new(attributes.merge(page_width: 200, page_height: 300)).page
+    assert_equal 41.0, page.top_margin
+    assert_equal 41.0, page.bottom_margin
+
+    assert_equal 17.5, page.left_margin
+    assert_equal 17.5, page.right_margin
   end
 
   private
 
   def attributes
     { name: 'Some label',
-      rows: 3,
-      columns: 5,
-      width: 153,
+      rows: 5,
+      columns: 3,
+      width: 53,
       height: 42,
-      row_gutter: 0,
-      column_gutter: 0 }
+      row_gutter: 2,
+      column_gutter: 3 }
   end
 end
 

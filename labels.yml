@@ -18,7 +18,7 @@ Avery 5160:
   height: 25.4
   row_gutter: 0.0
   column_gutter: 3.175
-  page_size: Letter
+  page_size: LETTER
 Avery 5395:
   rows: 4
   columns: 2
@@ -26,7 +26,7 @@ Avery 5395:
   height: 59.267
   row_gutter: 4.0527
   column_gutter: 9.5
-  page_size: Letter
+  page_size: LETTER
 Avery 5418:
   rows: 9
   columns: 4
