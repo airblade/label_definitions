@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ABMetrics</key>
+		<array>
+			<dict>
+				<key>ABBottomMargin</key>
+				<real>0.5</real>
+				<key>ABColumnCount</key>
+				<real>3</real>
+				<key>ABHorizontalGutters</key>
+				<real>0.125</real>
+				<key>ABLayoutName</key>
+				<string>5160</string>
+				<key>ABLeftMargin</key>
+				<real>0.1875</real>
+				<key>ABPaperHeight</key>
+				<real>11</real>
+				<key>ABPaperWidth</key>
+				<real>8.5</real>
+				<key>ABRightMargin</key>
+				<real>0.1875</real>
+				<key>ABRowCount</key>
+				<real>10</real>
+				<key>ABTopMargin</key>
+				<real>0.5</real>
+				<key>ABUnits</key>
+				<real>2</real>
+				<key>ABVerticalGutters</key>
+				<real>0.0</real>
+			</dict>
+    </array>
+  </dict>
+</array>
+</plist>

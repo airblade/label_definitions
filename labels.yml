@@ -1,6 +1,4 @@
 # Listed alphabetically.
-# Labels with the same dimensions are listed once with aliases.
-# Specify either page_size or (page_width and page_height).
 # Dimensions in millimetres.
 
 Avery 3657:
@@ -10,7 +8,17 @@ Avery 3657:
   height: 25.4
   row_gutter: 0.0
   column_gutter: 0.0
-  page_size: A4
+  page_width: 297.0
+  page_height: 210.0
+Avery 5159:
+  rows: 7
+  columns: 2
+  width: 101.6
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
 Avery 5160:
   rows: 10
   columns: 3
@@ -18,7 +26,134 @@ Avery 5160:
   height: 25.4
   row_gutter: 0.0
   column_gutter: 3.175
-  page_size: LETTER
+  page_width: 215.9
+  page_height: 279.4
+Avery 5161:
+  rows: 10
+  columns: 2
+  width: 101.6
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5162:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 5163:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5164:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5165:
+  rows: 1
+  columns: 1
+  width: 215.9
+  height: 279.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 5167:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 5168:
+  rows: 2
+  columns: 2
+  width: 88.9
+  height: 127.0
+  row_gutter: 0.0
+  column_gutter: 12.7
+  page_width: 215.9
+  page_height: 279.4
+Avery 5260:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 5261:
+  rows: 10
+  columns: 2
+  width: 101.6
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5262:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 5263:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5264:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5265:
+  rows: 1
+  columns: 1
+  width: 215.9
+  height: 279.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 5267:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
 Avery 5395:
   rows: 4
   columns: 2
@@ -26,7 +161,8 @@ Avery 5395:
   height: 59.267
   row_gutter: 4.0527
   column_gutter: 9.5
-  page_size: LETTER
+  page_width: 215.9
+  page_height: 279.4
 Avery 5418:
   rows: 9
   columns: 4
@@ -36,21 +172,1974 @@ Avery 5418:
   column_gutter: 1.6
   page_width: 101.6
   page_height: 152.4
-Avery J8651:
-  aliases: Avery L7651
+Avery 5510:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 5512:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 5513:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5514:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5516:
+  rows: 2
+  columns: 1
+  width: 213.87
+  height: 138.68
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 5520:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 5522:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 5523:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5524:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5526:
+  rows: 2
+  columns: 1
+  width: 213.87
+  height: 138.68
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 5560:
+  rows: 10
+  columns: 3
+  width: 66.15
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.96
+  page_width: 215.9
+  page_height: 279.4
+Avery 5620:
+  rows: 10
+  columns: 3
+  width: 69.85
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 1.6
+  page_width: 215.9
+  page_height: 279.4
+Avery 5630:
+  rows: 10
+  columns: 3
+  width: 69.85
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 1.6
+  page_width: 215.9
+  page_height: 279.4
+Avery 5660:
+  rows: 10
+  columns: 3
+  width: 69.85
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 1.6
+  page_width: 215.9
+  page_height: 279.4
+Avery 5661:
+  rows: 10
+  columns: 2
+  width: 104.77
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 2.13
+  page_width: 215.9
+  page_height: 279.4
+Avery 5662:
+  rows: 7
+  columns: 2
+  width: 104.77
+  height: 33.85
+  row_gutter: 0.0
+  column_gutter: 2.13
+  page_width: 215.9
+  page_height: 279.4
+Avery 5663:
+  rows: 5
+  columns: 2
+  width: 104.77
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 2.13
+  page_width: 215.9
+  page_height: 279.4
+Avery 5664:
+  rows: 3
+  columns: 2
+  width: 104.77
+  height: 84.66
+  row_gutter: 0.01
+  column_gutter: 2.13
+  page_width: 215.9
+  page_height: 279.4
+Avery 5667:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 5734:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5735:
+  rows: 6
+  columns: 2
+  width: 76.4
+  height: 26.99
+  row_gutter: 15.34
+  column_gutter: 30.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 5776:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5777:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5778:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5779:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5810:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 5845:
+  rows: 10
+  columns: 3
+  width: 71.97
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 5922:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 5923:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5930:
+  rows: 10
+  columns: 3
+  width: 69.85
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 1.6
+  page_width: 215.9
+  page_height: 279.4
+Avery 5960:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 5961:
+  rows: 10
+  columns: 2
+  width: 101.6
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 5962:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 5963:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 5978:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 6460:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 6464:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 6467:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 6498:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 6499:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 6504:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 6870:
+  rows: 10
+  columns: 3
+  width: 57.15
+  height: 19.05
+  row_gutter: 6.35
+  column_gutter: 12.7
+  page_width: 215.9
+  page_height: 279.4
+Avery 6871:
+  rows: 6
+  columns: 3
+  width: 60.32
+  height: 31.75
+  row_gutter: 6.35
+  column_gutter: 7.94
+  page_width: 215.9
+  page_height: 279.4
+Avery 6873:
+  rows: 4
+  columns: 2
+  width: 95.25
+  height: 50.8
+  row_gutter: 6.35
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 6874:
+  rows: 3
+  columns: 2
+  width: 95.25
+  height: 76.2
+  row_gutter: 9.52
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 6876:
+  rows: 2
+  columns: 1
+  width: 196.85
+  height: 120.65
+  row_gutter: 6.35
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 6878:
+  rows: 2
+  columns: 2
+  width: 95.25
+  height: 120.65
+  row_gutter: 6.35
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 6879:
+  rows: 6
+  columns: 2
+  width: 95.25
+  height: 31.75
+  row_gutter: 6.35
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 8160:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8161:
+  rows: 10
+  columns: 2
+  width: 101.6
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 8162:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 8163:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 8164:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 8165:
+  rows: 1
+  columns: 1
+  width: 215.9
+  height: 279.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 8167:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 8250:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8252:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 8253:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 8254:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 8255:
+  rows: 1
+  columns: 1
+  width: 215.9
+  height: 279.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 8257:
+  rows: 10
+  columns: 3
+  width: 57.15
+  height: 19.05
+  row_gutter: 6.35
+  column_gutter: 12.7
+  page_width: 215.9
+  page_height: 279.4
+Avery 8460:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8461:
+  rows: 10
+  columns: 2
+  width: 101.6
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 8462:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 8463:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 8464:
+  rows: 3
+  columns: 2
+  width: 101.6
+  height: 84.67
+  row_gutter: 0.0
+  column_gutter: 4.78
+  page_width: 215.9
+  page_height: 279.4
+Avery 8465:
+  rows: 1
+  columns: 1
+  width: 215.9
+  height: 279.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 8560:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8567:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 8620:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8660:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8662:
+  rows: 7
+  columns: 2
+  width: 101.61
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 4.76
+  page_width: 215.9
+  page_height: 279.4
+Avery 8663:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 8665:
+  rows: 1
+  columns: 1
+  width: 215.9
+  height: 279.4
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 8667:
+  rows: 20
+  columns: 4
+  width: 44.45
+  height: 12.7
+  row_gutter: 0.0
+  column_gutter: 7.62
+  page_width: 215.9
+  page_height: 279.4
+Avery 8760:
+  rows: 10
+  columns: 3
+  width: 57.15
+  height: 19.05
+  row_gutter: 6.35
+  column_gutter: 12.7
+  page_width: 215.9
+  page_height: 279.4
+Avery 8763:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 8764:
+  rows: 3
+  columns: 2
+  width: 95.25
+  height: 76.2
+  row_gutter: 9.52
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 8765:
+  rows: 1
+  columns: 1
+  width: 196.85
+  height: 241.3
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 215.9
+  page_height: 279.4
+Avery 8768:
+  rows: 2
+  columns: 2
+  width: 95.25
+  height: 120.65
+  row_gutter: 6.35
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 8769:
+  rows: 6
+  columns: 2
+  width: 95.25
+  height: 31.75
+  row_gutter: 6.35
+  column_gutter: 6.35
+  page_width: 215.9
+  page_height: 279.4
+Avery 8810:
+  rows: 10
+  columns: 3
+  width: 66.68
+  height: 25.4
+  row_gutter: 0.0
+  column_gutter: 3.18
+  page_width: 215.9
+  page_height: 279.4
+Avery 8923:
+  rows: 5
+  columns: 2
+  width: 101.6
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 4.06
+  page_width: 215.9
+  page_height: 279.4
+Avery 8987:
+  rows: 10
+  columns: 3
+  width: 57.15
+  height: 19.05
+  row_gutter: 6.35
+  column_gutter: 12.7
+  page_width: 215.9
+  page_height: 279.4
+Avery J4720:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J4721:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J4722:
+  rows: 5
+  columns: 2
+  width: 96.0
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J4791:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J4792:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J4794:
+  rows: 4
+  columns: 2
+  width: 96.0
+  height: 63.5
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J8156:
+  rows: 15
+  columns: 3
+  width: 58.0
+  height: 17.92
+  row_gutter: 0.0
+  column_gutter: 11.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8157:
+  rows: 11
+  columns: 3
+  width: 64.0
+  height: 24.45
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8158:
+  rows: 10
+  columns: 3
+  width: 64.0
+  height: 26.9
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8159:
+  rows: 8
+  columns: 3
+  width: 63.51
+  height: 33.86
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8160:
+  rows: 7
+  columns: 3
+  width: 63.51
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8161:
+  rows: 6
+  columns: 3
+  width: 63.5
+  height: 46.56
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8162:
+  rows: 8
+  columns: 2
+  width: 99.06
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8163:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8164:
+  rows: 4
+  columns: 3
+  width: 63.5
+  height: 71.97
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8165:
+  rows: 4
+  columns: 2
+  width: 99.06
+  height: 67.73
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8166:
+  rows: 3
+  columns: 2
+  width: 99.06
+  height: 93.13
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8167:
+  rows: 1
+  columns: 1
+  width: 199.6
+  height: 289.05
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery J8168:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery J8169:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
+Avery J8173:
+  rows: 5
+  columns: 2
+  width: 99.06
+  height: 57.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8359:
+  rows: 8
+  columns: 3
+  width: 63.51
+  height: 33.86
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8360:
+  rows: 7
+  columns: 3
+  width: 63.51
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8361:
+  rows: 6
+  columns: 3
+  width: 63.5
+  height: 46.56
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8362:
+  rows: 8
+  columns: 2
+  width: 99.06
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8363:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8364:
+  rows: 4
+  columns: 3
+  width: 63.5
+  height: 71.97
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8365:
+  rows: 4
+  columns: 2
+  width: 99.06
+  height: 67.73
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8366:
+  rows: 3
+  columns: 2
+  width: 99.06
+  height: 93.13
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8367:
+  rows: 1
+  columns: 1
+  width: 199.6
+  height: 289.05
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery J8368:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery J8369:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
+Avery J8551:
   rows: 13
   columns: 5
   width: 38.1
-  height: 21.2
+  height: 21.17
   row_gutter: 0.0
-  column_gutter: 2.5
-  page_size: A4
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8560:
+  rows: 7
+  columns: 3
+  width: 63.51
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8562:
+  rows: 8
+  columns: 2
+  width: 99.06
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8563:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8565:
+  rows: 4
+  columns: 2
+  width: 99.06
+  height: 67.73
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8567:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 297.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery J8587:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 297.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery J8651:
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8654:
+  rows: 10
+  columns: 4
+  width: 45.72
+  height: 25.41
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery J8658:
+  rows: 27
+  columns: 7
+  width: 25.4
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery J8659:
+  rows: 27
+  columns: 10
+  width: 17.78
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4730:
+  rows: 27
+  columns: 10
+  width: 17.78
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4731:
+  rows: 27
+  columns: 7
+  width: 25.4
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4732:
+  rows: 16
+  columns: 5
+  width: 35.56
+  height: 16.93
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4733:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
+Avery L4734:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L4735:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 297.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L4736:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4737:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L4743:
+  rows: 6
+  columns: 2
+  width: 99.06
+  height: 42.35
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L4744:
+  rows: 5
+  columns: 2
+  width: 96.0
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4745:
+  rows: 4
+  columns: 2
+  width: 96.0
+  height: 63.5
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L4770:
+  rows: 10
+  columns: 4
+  width: 45.72
+  height: 25.41
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L4772:
+  rows: 6
+  columns: 2
+  width: 99.06
+  height: 42.35
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L4773:
+  rows: 8
+  columns: 3
+  width: 63.51
+  height: 33.86
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L4774:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
+Avery L4775:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 297.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L4776:
+  rows: 6
+  columns: 2
+  width: 99.06
+  height: 42.35
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L4778:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6002:
+  rows: 4
+  columns: 3
+  width: 60.0
+  height: 60.0
+  row_gutter: 7.0
+  column_gutter: 7.0
+  page_width: 210.0
+  page_height: 296.9
+Avery L6003:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6004:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6005:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 296.86
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 296.9
+Avery L6006:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 296.86
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 296.9
+Avery L6008:
+  rows: 27
+  columns: 7
+  width: 25.4
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6009:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6011:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6012:
+  rows: 5
+  columns: 2
+  width: 96.0
+  height: 50.8
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6013:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 296.86
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 296.9
+Avery L6022:
+  rows: 32
+  columns: 3
+  width: 63.5
+  height: 8.47
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6023:
+  rows: 7
+  columns: 3
+  width: 63.5
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6024:
+  rows: 6
+  columns: 3
+  width: 63.5
+  height: 42.33
+  row_gutter: 4.23
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6025:
+  rows: 6
+  columns: 3
+  width: 63.5
+  height: 46.57
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6037:
+  rows: 27
+  columns: 7
+  width: 25.4
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6038:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6039:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6040:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6041:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6103:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6105:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6107:
+  rows: 6
+  columns: 2
+  width: 96.0
+  height: 42.33
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6111:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 296.86
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 296.9
+Avery L6112:
+  rows: 6
+  columns: 4
+  width: 40.0
+  height: 40.0
+  row_gutter: 6.0
+  column_gutter: 6.0
+  page_width: 210.0
+  page_height: 296.9
+Avery L6113:
+  rows: 12
+  columns: 4
+  width: 45.72
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L6114:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.63
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L7051:
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7060:
+  rows: 7
+  columns: 3
+  width: 63.51
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7063:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7067:
+  rows: 1
+  columns: 1
+  width: 209.0
+  height: 295.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7068:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7069:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
+Avery L7156:
+  rows: 15
+  columns: 3
+  width: 58.0
+  height: 17.92
+  row_gutter: 0.0
+  column_gutter: 11.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7157:
+  rows: 11
+  columns: 3
+  width: 64.0
+  height: 24.45
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7158:
+  rows: 10
+  columns: 3
+  width: 64.0
+  height: 26.9
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7159:
+  rows: 8
+  columns: 3
+  width: 63.51
+  height: 33.86
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7160:
+  rows: 7
+  columns: 3
+  width: 63.51
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7161:
+  rows: 6
+  columns: 3
+  width: 63.5
+  height: 46.56
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7162:
+  rows: 8
+  columns: 2
+  width: 99.06
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7163:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7164:
+  rows: 4
+  columns: 3
+  width: 63.5
+  height: 71.97
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7165:
+  rows: 4
+  columns: 2
+  width: 99.06
+  height: 67.73
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7166:
+  rows: 3
+  columns: 2
+  width: 99.06
+  height: 93.13
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7167:
+  rows: 1
+  columns: 1
+  width: 199.6
+  height: 289.05
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7168:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7169:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
+Avery L7173:
+  rows: 5
+  columns: 2
+  width: 99.06
+  height: 57.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7177:
+  rows: 6
+  columns: 2
+  width: 99.06
+  height: 42.35
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7263:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7363:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7551:
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7552:
+  rows: 10
+  columns: 2
+  width: 55.02
+  height: 12.7
+  row_gutter: 8.47
+  column_gutter: 49.17
+  page_width: 210.0
+  page_height: 297.0
+Avery L7553:
+  rows: 12
+  columns: 4
+  width: 22.0
+  height: 12.7
+  row_gutter: 4.23
+  column_gutter: 23.72
+  page_width: 210.0
+  page_height: 297.0
+Avery L7560:
+  rows: 7
+  columns: 3
+  width: 63.51
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7562:
+  rows: 8
+  columns: 2
+  width: 99.06
+  height: 33.87
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7563:
+  rows: 7
+  columns: 2
+  width: 99.06
+  height: 38.1
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7565:
+  rows: 4
+  columns: 2
+  width: 99.06
+  height: 67.73
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7567:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 297.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7568:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7587:
+  rows: 1
+  columns: 1
+  width: 210.0
+  height: 297.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7651:
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7652:
+  rows: 16
+  columns: 4
+  width: 45.72
+  height: 16.94
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7653:
+  rows: 12
+  columns: 4
+  width: 22.0
+  height: 12.7
+  row_gutter: 4.23
+  column_gutter: 23.72
+  page_width: 210.0
+  page_height: 297.0
+Avery L7654:
+  rows: 10
+  columns: 4
+  width: 45.72
+  height: 25.41
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7657:
+  rows: 27
+  columns: 10
+  width: 17.78
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L7658:
+  rows: 27
+  columns: 7
+  width: 25.4
+  height: 10.0
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 296.9
+Avery L7680:
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7690:
+  rows: 13
+  columns: 5
+  width: 38.1
+  height: 21.17
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7765:
+  rows: 4
+  columns: 2
+  width: 99.06
+  height: 67.73
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 210.0
+  page_height: 297.0
+Avery L7767:
+  rows: 1
+  columns: 1
+  width: 209.0
+  height: 295.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7768:
+  rows: 2
+  columns: 1
+  width: 199.6
+  height: 143.53
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 210.0
+  page_height: 297.0
+Avery L7769:
+  rows: 2
+  columns: 2
+  width: 139.0
+  height: 99.1
+  row_gutter: 2.54
+  column_gutter: 0.0
+  page_width: 297.0
+  page_height: 210.0
 Zweckform 4737:
-  aliases: Zweckform 4784
   rows: 9
   columns: 3
   width: 63.5
   height: 29.6
   row_gutter: 0.0
   column_gutter: 2.54
-  page_size: A4
+  page_width: 297.0
+  page_height: 210.0
+Zweckform 4784:
+  rows: 9
+  columns: 3
+  width: 63.5
+  height: 29.6
+  row_gutter: 0.0
+  column_gutter: 2.54
+  page_width: 297.0
+  page_height: 210.0
