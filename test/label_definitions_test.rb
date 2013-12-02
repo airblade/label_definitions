@@ -10,7 +10,7 @@ class LabelDefinitionsTest < TestCase
   test 'all' do
     labels = LabelDefinitions.all
     assert_same labels, LabelDefinitions.all  # caching
-    assert_equal 8, labels.length
+    assert_equal 238, labels.length
     assert_kind_of LabelDefinitions::Label, labels.first
   end
 
@@ -36,12 +36,6 @@ class LabelDefinitionsTest < TestCase
     count = LabelDefinitions.all.length
     LabelDefinitions.add example_label
     assert_equal count, LabelDefinitions.all.length
-  end
-
-  test 'converts page size to width and height' do
-    label = LabelDefinitions.find 'Avery 5395'
-    assert_equal 215.9, label.page.width
-    assert_equal 279.4, label.page.height
   end
 
   private

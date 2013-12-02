@@ -1,21 +1,15 @@
 require 'yaml'
 require 'label_definitions/label'
-require 'label_definitions/page_size'
 require 'label_definitions/version'
 
 module LabelDefinitions
 
   def self.all
     @labels ||= begin
-      labels = []
-      load_definitions.each do |name, definition|
+      load_definitions.reduce([]) do |labels, (name, definition)|
         symbolize_keys! definition
-        name_and_aliases(name, definition).each do |n|
-          convert_page_size! definition
-          labels << Label.new(definition.merge({name: n}))
-        end
+        labels << Label.new(definition.merge(name: name))
       end
-      labels
     end
   end
 
@@ -29,18 +23,6 @@ module LabelDefinitions
   end
 
   private
-
-  def self.convert_page_size!(definition)
-    if (size = definition.delete :page_size)
-      width, height = LabelDefinitions::PageSize::SIZES[size]
-      definition[:page_width]  = width
-      definition[:page_height] = height
-    end
-  end
-
-  def self.name_and_aliases(name, definition)
-    [name] + definition.fetch(:aliases, '').split(',').map(&:strip)
-  end
 
   def self.load_definitions
     YAML.load_file File.expand_path('../../labels.yml', __FILE__)
