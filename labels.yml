@@ -8,8 +8,8 @@ Avery 3657:
   height: 25.4
   row_gutter: 0.0
   column_gutter: 0.0
-  page_width: 297.0
-  page_height: 210.0
+  page_width: 210.0
+  page_height: 297.0
 Avery 5159:
   rows: 7
   columns: 2
@@ -2132,8 +2132,8 @@ Zweckform 4737:
   height: 29.6
   row_gutter: 0.0
   column_gutter: 2.54
-  page_width: 297.0
-  page_height: 210.0
+  page_width: 210.0
+  page_height: 297.0
 Zweckform 4784:
   rows: 9
   columns: 3
@@ -2141,5 +2141,5 @@ Zweckform 4784:
   height: 29.6
   row_gutter: 0.0
   column_gutter: 2.54
-  page_width: 297.0
-  page_height: 210.0
+  page_width: 210.0
+  page_height: 297.0
