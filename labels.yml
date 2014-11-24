@@ -2134,6 +2134,15 @@ Avery L7769:
   column_gutter: 0.0
   page_width: 297.0
   page_height: 210.0
+Dymo Small:
+  rows: 1
+  columns: 1
+  width: 54.0
+  height: 25.0
+  row_gutter: 0.0
+  column_gutter: 0.0
+  page_width: 60.0
+  page_height: 33.0
 Zweckform 4737:
   rows: 9
   columns: 3
