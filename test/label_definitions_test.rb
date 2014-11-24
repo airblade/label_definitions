@@ -10,7 +10,7 @@ class LabelDefinitionsTest < TestCase
   test 'all' do
     labels = LabelDefinitions.all
     assert_same labels, LabelDefinitions.all  # caching
-    assert_equal 238, labels.length
+    assert_equal 240, labels.length
     assert_kind_of LabelDefinitions::Label, labels.first
   end
 
