@@ -1900,6 +1900,15 @@ Avery L7169:
   column_gutter: 0.0
   page_width: 297.0
   page_height: 210.0
+Avery L7172:
+  rows: 9
+  columns: 2
+  width: 100.0
+  height: 30.0
+  row_gutter: 0.0
+  column_gutter: 3.0
+  page_width: 210.0
+  page_height: 297.0
 Avery L7173:
   rows: 5
   columns: 2
